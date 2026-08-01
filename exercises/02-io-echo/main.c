@@ -13,10 +13,15 @@
  * ============================================================================
  */
  
- #include <stdio.h>
- 
- int main(void) {
-     // Write solution here
-     
-     return 0;
- }
+#include <stdio.h>
+
+int main(void) {
+    // Write solution here
+    char input[100];
+    
+    printf("Input: ");
+    fgets(input, sizeof(input), stdin);
+    printf("Output: %s\n", input);
+    
+    return 0;
+}

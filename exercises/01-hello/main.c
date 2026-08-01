@@ -13,14 +13,14 @@
  * ============================================================================
  */
  
- #include <stdio.h>
+#include <stdio.h>
  
- int main(void) {
-     // Write solution here
-     char name[] = "oxamr";
-     
-     printf("Hello, World!\n");
-     printf("by: %s\n", name);
-     
-     return 0;
- }
+int main(void) {
+    // Write solution here
+    char name[] = "oxamr";
+    
+    printf("Hello, World!\n");
+    printf("by: %s\n", name);
+    
+    return 0;
+}

@@ -13,10 +13,11 @@
  * ============================================================================
  */
  
- #include <stdio.h>
- 
- int main(void) {
-     // Write solution here
-     
-     return 0;
- }
+#include <stdio.h>
+
+int main(void) {
+    // Write solution here
+    
+    
+    return 0;
+}
