@@ -1,8 +1,8 @@
 /*
  * ============================================================================
- * Exercise: 
- * Description: 
- * File: 
+ * Exercise: 02-io-echo
+ * Description: Read a line with `fgets`, print it back.
+ * File: main.c
  * Author: oxamr
  *
  * Copyright (c) 2026 oxamr.
