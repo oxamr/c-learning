@@ -1,11 +1,10 @@
-/*
- * Copyright (c) 2026 oxamr.
- * All rights reserved.
- *
- * This is part of my personal C learning journey.
- * Please do not copy or redistribute it as your own work.
- *
- */
+<!--
+Copyright (c) 2026 oxamr.
+All rights reserved.
+
+This repository contains my personal learning exercises.
+Please do not copy, redistribute, or submit this work as your own.
+-->
 
 # C Learning
 
