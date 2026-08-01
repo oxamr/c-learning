@@ -1,8 +1,8 @@
 /*
  * ============================================================================
- * Exercise: 
- * Description: 
- * File: 
+ * Exercise: 01-hello
+ * Description: Print "Hello, World!", then print your name from a variable.
+ * File: main.c
  * Author: oxamr
  *
  * Copyright (c) 2026 oxamr.
@@ -17,6 +17,10 @@
  
  int main(void) {
      // Write solution here
+     char name[] = "oxamr";
+     
+     printf("Hello, World!\n");
+     printf("by: %s\n", name);
      
      return 0;
  }
