@@ -1,0 +1,19 @@
+# Build output
+build/
+
+# Object files
+*.o
+*.obj
+
+# Executables
+*.out
+*.exe
+
+# Coverage / profiling
+*.gcda
+*.gcno
+*.prof
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
