@@ -1,8 +1,8 @@
 /*
  * ============================================================================
- * Exercise: 
- * Description: 
- * File: 
+ * Exercise: 15-array-reverse
+ * Description: Reverse an array in place.
+ * File: main.c
  * Author: oxamr
  *
  * Copyright (c) 2026 oxamr.
@@ -12,11 +12,12 @@
  * Please do not submit this work as your own.
  * ============================================================================
  */
- 
- #include <stdio.h>
- 
- int main(void) {
-     // Write solution here
-     
-     return 0;
- }
+
+#include <stdio.h>
+
+int main(void) {
+    // Write solution here
+    
+    
+    return 0;
+}
