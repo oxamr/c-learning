@@ -17,3 +17,6 @@ build/
 # macOS / Windows
 .DS_Store
 Thumbs.db
+
+# Project dir
+projects/
